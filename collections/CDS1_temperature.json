@@ -1,5 +1,5 @@
 {
-  "Name": "temperature",
+  "Name": "temperatur",
   "Title": "Global temperature - ERA5",
   "EodashIdentifier": "CDS1_temperature",
   "Subtitle": "Air temperature at 2m above ",
